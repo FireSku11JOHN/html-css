@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(20, 20, 21);
+}
+
+
+h1 {
+    color:white;
+    font-family: sans-serif;
+}
+
+#titlee {
+    text-align: center;
+    /* justify-content: center center; */
+}
+
+#tumbs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+#video {
+    text-align: center;
+
+}
+
+#link-playlist {
+    text-align: center;
+}
+
+#voltar {
+    text-align: center;
+}
+
+.bnt-back {
+    color: gray;
+    font-family: sans-serif;
+
+}

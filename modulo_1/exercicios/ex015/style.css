@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color:dodgerblue;
+    font-family:sans-serif;
+}
+
+h2 {
+    color:rgb(20, 20, 20)
+}
+
+p {
+    text-align:justify;
+}
